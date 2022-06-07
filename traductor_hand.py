@@ -53,7 +53,7 @@ def main(instruccions):
 
 
 if __name__ == '__main__':
-    filename_instruccion = './input.hand'
+    filename_instruccion = './codify_test.hand'
     memory = [0] * 100
     pointer = 0
     instruccion_pointer = 0
